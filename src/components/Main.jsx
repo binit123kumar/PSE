@@ -247,9 +247,9 @@ const MainContent = () => {
                             </ul>
                         </div>
                     </li>
-                    <li className="nav-item" role="presentation">
-                        <a style={{ fontWeight: 'bold', color: 'inherit' }} className="nav-link text-reset text-decoration-none" href="#">Contact</a>
-                    </li>
+                   <li className="nav-item" role="presentation">
+    <a style={{ fontWeight: 'bold', color: 'inherit' }} className="nav-link text-reset text-decoration-none" href="#contact-section">Contact</a>
+</li>
 
                 </ul>
 
