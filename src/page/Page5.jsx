@@ -1,7 +1,7 @@
 import React from 'react';
 import Image1 from '../asset/Faculty/Dr. Rinky Kumari.jpg';
-import Image2 from '../asset/Faculty/Dr. Ashish Kumar.jpg';
-import Image3 from '../asset/Faculty/Dr. Reeti.jpg';
+import Image3 from '../asset/Faculty/Dr. Ashish Kumar.jpg';
+import Image2 from '../asset/Faculty/Dr. Reeti.jpg';
 
 
 
