@@ -204,7 +204,7 @@ const MainContent = () => {
                                 <li><NavLink to={"/page23"} className="dropdown-item">Academic Advisory Committee</NavLink></li>
                                 <li><NavLink to={"/page4"} className="dropdown-item">Staff</NavLink></li>
 
-                                <li><NavLink to={"/page5"} className="dropdown-item">Faculty In-Charge</NavLink></li>
+                                <li><NavLink to={"/page5"} className="dropdown-item">Guest Faculty</NavLink></li>
                                 {/*
                <li><NavLink to={"/page24"} className="dropdown-item">Consultant</NavLink></li>
             <li><NavLink to='{' className="dropdown-item">Consultant</NavLink></li>
